@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-04T08:17:10Z" name="voiceraproject.TestNgProject" finished-at="2022-05-04T08:19:22Z" duration-ms="132338">
+    <groups>
+    </groups>
+    <test started-at="2022-05-04T08:17:10Z" name="Command line test" finished-at="2022-05-04T08:19:22Z" duration-ms="132338">
+      <class name="voiceraproject.TestNgProject">
+        <test-method signature="test()[pri:0, instance:voiceraproject.TestNgProject@44ebcd03]" started-at="2022-05-04T13:47:10Z" name="test" finished-at="2022-05-04T13:49:22Z" duration-ms="132328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- voiceraproject.TestNgProject -->
+    </test> <!-- Command line test -->
+  </suite> <!-- voiceraproject.TestNgProject -->
+</testng-results>
