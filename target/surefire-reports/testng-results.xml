@@ -2,12 +2,12 @@
 <testng-results total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-05-04T08:17:10Z" name="voiceraproject.TestNgProject" finished-at="2022-05-04T08:19:22Z" duration-ms="132338">
+  <suite started-at="2022-05-06T06:19:33Z" name="voiceraproject.TestNgProject" finished-at="2022-05-06T06:21:07Z" duration-ms="94546">
     <groups>
     </groups>
-    <test started-at="2022-05-04T08:17:10Z" name="Command line test" finished-at="2022-05-04T08:19:22Z" duration-ms="132338">
+    <test started-at="2022-05-06T06:19:33Z" name="Command line test" finished-at="2022-05-06T06:21:07Z" duration-ms="94546">
       <class name="voiceraproject.TestNgProject">
-        <test-method signature="test()[pri:0, instance:voiceraproject.TestNgProject@44ebcd03]" started-at="2022-05-04T13:47:10Z" name="test" finished-at="2022-05-04T13:49:22Z" duration-ms="132328" status="PASS">
+        <test-method signature="test()[pri:0, instance:voiceraproject.TestNgProject@3e2e18f2]" started-at="2022-05-06T11:49:33Z" name="test" finished-at="2022-05-06T11:51:07Z" duration-ms="94536" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->

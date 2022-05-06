@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="voiceraproject.TestNgProject" time="132.33" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="voiceraproject.TestNgProject" time="94.537" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="15.0.2+7-27"/>
@@ -25,9 +25,9 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\javed\Desktop\SikuliProject\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf14634012368855153176.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\javed\Desktop\SikuliProject\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf16456601363121663324.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Users\javed\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/javed/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955/jre/bin/server;C:/Users/javed/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955/jre/bin;C:\Program Files\Java\jdk-11.0.12_windows-x64_bin\jdk-11.0.12\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files (x86)\Plantronics\Spokes3G SDK\;C:\Program Files\Git\cmd;C:\Maven\apache-maven-3.8.4\bin;C:\Apache Ant\apache-ant-1.9.16\bin;C:\MongoDB\mongodb-win32-x86_64-windows-5.0.5\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Tomcat\apache-tomcat-9.0.59-windows-x64\apache-tomcat-9.0.59\bin;C:\Program Files\Java\jdk1.8.0_221\jre;C:\Program Files\Java\jdk1.8.0_221;C:\Program Files\Java\jdk1.8.0_221\bin;C:\SonarQube\sonar-scanner-cli-4.7.0.2747-windows\sonar-scanner-4.7.0.2747-windows\bin;C:\Users\javed\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\javed\AppData\Local\Programs\Python\Python310\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\javed\AppData\Local\Microsoft\WindowsApps;C:\Users\javed\AppData\Roaming\npm;C:\Users\javed\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-11.0.12_windows-x64_bin\jdk-11.0.12;C:\Program Files\Java\jdk-11.0.12_windows-x64_bin\jdk-11.0.12\bin;C:\Tomcat\apache-tomcat-9.0.59-windows-x64\apache-tomcat-9.0.59\bin;C:\Program Files\Java\jdk1.8.0_221\jre;;C:\WINDOWS\System32;;."/>
+    <property name="java.library.path" value="C:\Users\javed\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/javed/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955/jre/bin/server;C:/Users/javed/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955/jre/bin;C:\Program Files\Java\jdk-11.0.12_windows-x64_bin\jdk-11.0.12\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files (x86)\Plantronics\Spokes3G SDK\;C:\Program Files\Git\cmd;C:\Maven\apache-maven-3.8.4\bin;C:\Apache Ant\apache-ant-1.9.16\bin;C:\MongoDB\mongodb-win32-x86_64-windows-5.0.5\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Tomcat\apache-tomcat-9.0.59-windows-x64\apache-tomcat-9.0.59\bin;C:\Program Files\Java\jdk1.8.0_221\jre;C:\Program Files\Java\jdk1.8.0_221;C:\Program Files\Java\jdk1.8.0_221\bin;C:\SonarQube\sonar-scanner-cli-4.7.0.2747-windows\sonar-scanner-4.7.0.2747-windows\bin;C:\Users\javed\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\javed\AppData\Local\Programs\Python\Python310\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\javed\AppData\Local\Microsoft\WindowsApps;C:\Users\javed\AppData\Roaming\npm;C:\Users\javed\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk-11.0.12_windows-x64_bin\jdk-11.0.12;C:\Program Files\Java\jdk-11.0.12_windows-x64_bin\jdk-11.0.12\bin;C:\Tomcat\apache-tomcat-9.0.59-windows-x64\apache-tomcat-9.0.59\bin;C:\Program Files\Java\jdk1.8.0_221\jre;;C:\WINDOWS\system32;;."/>
     <property name="jdk.debug" value="release"/>
     <property name="java.class.version" value="59.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -41,7 +41,7 @@
     <property name="java.class.path" value="C:\Users\javed\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_1.16.0.20210129-0849\jars\plexus-classworlds-2.6.0.jar"/>
     <property name="java.vm.specification.version" value="15"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B clean test"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B clean compile package install"/>
     <property name="java.home" value="C:\Users\javed\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955\jre"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -56,5 +56,5 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="voiceraproject.TestNgProject" name="test" time="132.33"/>
+  <testcase classname="voiceraproject.TestNgProject" name="test" time="94.537"/>
 </testsuite>

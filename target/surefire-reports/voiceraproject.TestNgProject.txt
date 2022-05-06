@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: voiceraproject.TestNgProject
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 133.983 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 95.119 sec
